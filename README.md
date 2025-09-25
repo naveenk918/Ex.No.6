@@ -1,6 +1,6 @@
 # Ex.No.6 Development of Python Code Compatible with Multiple AI Tools
 
-**Date:** 10-09-2025  
+**Date:** 25-09-2025  
 **Register No:** 212223060184  
 **Name:** NAVEEN K  
 
